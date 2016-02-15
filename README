@@ -1,1 +1,21 @@
 Check XML file Valid or Not...
+
+Let's a example take a xml file with "INFO.XML" file
+using parrsing parrse the xml file and check it's is valid or not.
+
+            <MainTag>
+                <element>
+                    <tag1>Key1</tag1>
+                    <tag2>Not intrested</tag2>
+                    <tag3>Value1</tag3>
+                </element>
+                <element>
+                    <tag1>Key2</tag1>
+                    <tag2>Not intrested</tag2>
+                </element>
+                <element>
+                    <ag1>Key3</tag1>
+                    <tag2>Not intrested</tag2>
+                    <tag3>Value3</tag3>
+                </element>
+            </MainTag>
